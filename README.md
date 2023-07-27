@@ -13,7 +13,14 @@ The integration of a Jupyter Notebook within Azure ML empowers data scientists t
  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LpVk2O2jb_rWi378SKT8XA.png" width="800" />
 </p>
 
+I also have an article on my data science blog showing you how to set up your workspace and start using Jupyter notebooks within the Azure Machine Learning environment, here is the link:
 
+
+Please, feel free to reach me with any questions or feedback!
+
+Linkedin: linkedin.com/in/robson-castro-serafim/
+Github: gitshowcase.com/robsoncserafim
+E-mail: robson.castro.serafim@gmail
 
 
 

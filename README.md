@@ -20,9 +20,9 @@ here is the link: https://medium.com/@robson.serafim
 Please, feel free to reach me with any questions or feedback!
 
 
-- Linkedin: linkedin.com/in/robson-castro-serafim/
+- Linkedin: https://linkedin.com/in/robson-castro-serafim/
 
-- Github: gitshowcase.com/robsoncserafim
+- Github: https://gitshowcase.com/robsoncserafim
 
 - E-mail: robson.castro.serafim@gmail
 

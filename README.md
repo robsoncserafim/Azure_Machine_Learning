@@ -8,7 +8,7 @@ The integration of a Jupyter Notebook within Azure ML empowers data scientists t
 **In this lab, you will learn how to use Azure ML Python SDK to register, package and deploy a Machine Learning model to an Azure Container Instance as a scoring web service.**
 
 
-<a href="https://ibb.co/xgBb3d8"><img src="https://i.ibb.co/s1N4tzJ/az.png" alt="az" border="0" /></a>
+https://ibb.co/xgBb3d8
 
 
 

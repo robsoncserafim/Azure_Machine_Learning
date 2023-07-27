@@ -9,13 +9,10 @@ The integration of a Jupyter Notebook within Azure ML empowers data scientists t
 
 
 
-<p float="center">
-
- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LpVk2O2jb_rWi378SKT8XA.png" width="400" />
-
-
-
+<p align="center">
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LpVk2O2jb_rWi378SKT8XA.png" width="1000" />
 </p>
+
 
 
 
